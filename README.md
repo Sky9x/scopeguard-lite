@@ -15,7 +15,7 @@ A lightweight way to defer execution of a block to the end of the scope, and to 
 
 
 <!-- Links -->
-[crates-io]: https://crates.io/crate/scopeguard-lite
+[crates-io]: https://crates.io/crates/scopeguard-lite
 [github-repo]: https://github.com/Sky9x/scopeguard-lite
 [docs-rs]: https://docs.rs/scopeguard-lite
 
